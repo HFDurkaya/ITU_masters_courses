@@ -13,5 +13,5 @@ Homeworks and Projects that i have implemented throughout my masters(2024 - curr
 **Course Term Project:** Explainable graph clustering (private work)
 
 ### Data Mining
-**Course Content:** Fundamentals of data mining techniques and their implementations
-**Course  TermProject:** [Recommendation system enhancements using visual information of products](https://github.com/HFDurkaya/Data_mining_recsys)
+**Course Content:** Fundamentals of data mining techniques and their implementations.
+**Course Term Project:** [Recommendation system enhancements using visual information of products](https://github.com/HFDurkaya/Data_mining_recsys)
